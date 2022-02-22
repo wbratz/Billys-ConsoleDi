@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageId>Billys-ConsoleDi</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>William Bratz</Authors>
+    <Company>williambratz.com</Company>
+    <Description>Simple dependency injection library to be used in console applications.</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
